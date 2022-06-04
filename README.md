@@ -6,3 +6,5 @@
 - Includes 2 methods 
 1. Using Iteration
 2. By Recursion
+
+## Merge_Sort
